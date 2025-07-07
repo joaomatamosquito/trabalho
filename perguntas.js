@@ -23,7 +23,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
+    'Geografia',
     'Em que ano foi criada a ONU? ?',
     '1945'
 )
@@ -35,14 +35,29 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
+    'Conhecimento',
     'Qual programa da Netflix teve mais visualizações em 2021?',
     'Squid Game'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Geografia',
     'Em que país está localizada a usina nuclear de Chernobyl?',
     'Ucrânia'
 )
+
+criaCartao(
+    'Conhecimento',
+    'Qual empresa telefônica produziu o celular 3310? ',
+    'Nokia'
+)
+
+criaCartao(
+    'Conhecimento',
+    'O que "FIFA" significa em inglês?',
+    'nternational Federation of Association Football (Federação Internacional de Futebol)'
+)
+
+
+
 
